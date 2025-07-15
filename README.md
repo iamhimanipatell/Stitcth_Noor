@@ -81,4 +81,4 @@ Create React App Docs
 
 Netlify Hosting Guide
 
-🧵 Made with love by Himani @iamhimaniiii 💫
+🧵 Made with love by Himani 💫
